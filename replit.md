@@ -16,6 +16,16 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - **API codegen**: Orval (from OpenAPI spec)
 - **Build**: esbuild (CJS bundle)
 
+## Artifacts
+
+### Boricua Web PR (`artifacts/boricua-web-pr`)
+- **Type**: react-vite (presentation-first, no backend)
+- **Preview path**: `/`
+- **Description**: Full marketing website for a Puerto Rico web design service targeting local businesses that want to attract tourists.
+- **Pages**: Home, Servicios, Portafolio, Precios, Contacto
+- **Language**: Spanish (Puerto Rican tone)
+- **Features**: Sticky nav, floating WhatsApp button, framer-motion animations, portfolio with AI-generated images, pricing tiers, contact form
+
 ## Key Commands
 
 - `pnpm run typecheck` — full typecheck across all packages

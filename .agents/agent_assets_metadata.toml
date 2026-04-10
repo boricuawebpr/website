@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "XO5oZYEJ4dH5CsP4c7CPM"
+uri = "file://artifacts/boricua-web-pr/public/demo-restaurant.png"
+type = "image"
+title = "Restaurant website demo"
+
+[[generated]]
+id = "HL0uXUHtzrA1LTDfFs5bN"
+uri = "file://artifacts/boricua-web-pr/public/demo-tour.png"
+type = "image"
+title = "Tour company website demo"
+
+[[generated]]
+id = "yg1dMGgmbzNuxkQF0Byct"
+uri = "file://artifacts/boricua-web-pr/public/demo-airbnb.png"
+type = "image"
+title = "Airbnb rental website demo"
+
+[[generated]]
+id = "BXQ7bocO3SMWQx3QMdE5g"
+uri = "file://artifacts/boricua-web-pr/public/demo-salon.png"
+type = "image"
+title = "Beauty salon website demo"
+
+[[generated]]
+id = "TgpA3HbQq4aJI0PMXft-W"
+uri = "file://artifacts/boricua-web-pr/public/demo-gym.png"
+type = "image"
+title = "Gym website demo"
+
+[[generated]]
+id = "WHlG69EeSu8v9xYSinzpp"
+uri = "file://artifacts/boricua-web-pr/public/demo-travel.png"
+type = "image"
+title = "Travel service website demo"

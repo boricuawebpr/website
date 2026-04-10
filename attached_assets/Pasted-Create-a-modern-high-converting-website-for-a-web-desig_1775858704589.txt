@@ -1,0 +1,90 @@
+Create a modern, high-converting website for a web design service business.
+
+IMPORTANT:
+- The instructions and structure should be followed in English.
+- ALL visible website copy (headlines, paragraphs, buttons) must be written in Spanish (Puerto Rico tone).
+- The Spanish should sound natural, local, and conversational—not robotic or overly formal.
+
+Business Name: Boricua Web PR
+Tagline (in Spanish): “Mas Clientes, Menos revolu”
+Target Audience: Local businesses in Puerto Rico that want to attract tourists (restaurants, tours, Airbnb, salons, gyms, services)
+
+Pages to include:
+1. Home
+2. Services
+3. Portfolio (Demo Sites)
+4. Pricing
+5. Contact
+
+Design style:
+- Clean, modern, premium
+- Mobile-first design
+- Color scheme: [PRIMARY COLOR] and [SECONDARY COLOR]
+- Visually appealing to tourists (bright, inviting, tropical but professional)
+
+Homepage structure:
+
+Hero Section (Spanish copy):
+- Strong headline focused on tourists:
+  Example: “Convierte visitantes en turistas que compran en tu negocio”
+- Subheadline explaining value:
+  Focus on attracting tourists already searching for services in Puerto Rico
+- CTA buttons (in Spanish):
+  “Ver Ejemplos” and “Quiero Mi Página Web”
+
+Section: “¿Para quién es esto?” (Spanish)
+- Restaurantes
+- Tours y excursiones
+- Airbnb / alquileres
+- Salones / barberías
+- Gimnasios / entrenadores
+- Y Mucho Más
+
+Section: “Cómo Funciona” (Spanish)
+1. Escoges un diseño
+2. Lo adaptamos a tu negocio
+3. Tu página está lista rápido
+
+Section: “Por qué elegirnos” (Spanish)
+- Rápido
+- Enfocado en turistas
+- Profesional y sin complicaciones
+- Precio accesible
+
+Section: Testimonials (Spanish)
+- 3 realistic testimonials from Puerto Rico business owners
+
+Services Page (Spanish copy):
+- 5-page website design
+- Demo customization
+- Basic SEO focused on attracting tourists
+- Add-ons (booking, WhatsApp, forms)
+
+Portfolio Page:
+- Show 3–6 demo sites
+- Buttons in Spanish: “Ver Demo”
+
+Pricing Page (Spanish):
+- Simple tiers:
+  Básico: [50]
+  Estándar: [150]
+  Premium: [400]
+
+Contact Page (Spanish):
+- Form fields (can remain labeled in Spanish)
+- CTA: “Solicita tu página web hoy”
+
+Extras:
+- Floating WhatsApp button
+- Sticky navigation
+- Footer with contact info
+- Mobile optimization for tourists
+
+Tone (VERY IMPORTANT):
+- Clear, direct, and persuasive
+- Focus on helping businesses get more tourist customers
+- Avoid generic phrases like “somos una empresa comprometida”
+- Make it sound like a real local business, not a translation
+
+Goal:
+The site should feel like a real Puerto Rico-based service designed to help businesses get more tourist customers quickly.
