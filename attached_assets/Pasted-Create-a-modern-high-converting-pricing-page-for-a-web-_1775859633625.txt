@@ -1,0 +1,123 @@
+Create a modern, high-converting pricing page for a web design service business.
+
+IMPORTANT:
+- The page should be fully functional and visually clean.
+- All visible website text must be written in Spanish (Puerto Rico tone).
+- The design should feel professional, simple, and focused on conversions.
+- Mobile-first layout is required.
+
+Business context:
+This is a web design service for local businesses in Puerto Rico that want to attract more customers, especially tourists.
+
+PAGE TYPE:
+- Single pricing page with clear sections and strong call-to-action buttons.
+
+---
+
+PAGE STRUCTURE:
+
+1. HERO SECTION
+Title (Spanish):
+“Planes simples para llevar tu negocio al próximo nivel”
+
+Subtitle (Spanish):
+“Páginas web diseñadas para atraer clientes y aumentar tus ventas en Puerto Rico”
+
+CTA Button:
+“Solicita tu página web”
+
+---
+
+2. MAIN PRICING CARD
+
+Create a highlighted main package:
+
+Title:
+“Página Web Básica”
+
+Price:
+$400
+
+Includes:
+- 5 páginas (Inicio, Sobre Nosotros, Servicios, Portafolio, Contacto)
+- Diseño moderno y optimizado para móviles
+- Formulario de contacto básico
+- Integración con Google Maps
+- SEO básico (títulos y descripciones)
+
+Short description (Spanish):
+“Todo lo que necesitas para tener presencia profesional en línea.”
+
+CTA Button:
+“Empezar ahora”
+
+---
+
+3. ADD-ONS SECTION
+
+Create a separate section titled:
+“Servicios adicionales”
+
+List items clearly with pricing:
+
+- Página adicional: +$50 por página
+- Funcionalidad interactiva o tipo app: +$150 por función/página  
+  (Ej: reservas, pedidos en línea, formularios avanzados, sistemas de citas)
+- Google Business Profile / Google Maps: +$50
+
+Add short explanation:
+“Personaliza tu sitio web según lo que tu negocio necesita.”
+
+---
+
+4. VALUE SECTION
+
+Title:
+“¿Qué estás obteniendo realmente?”
+
+Bullet points:
+- Más clientes encontrándote en línea
+- Un sitio web diseñado para convertir visitantes en ventas
+- Presencia profesional para turistas y locales
+- Fácil de usar desde cualquier teléfono
+
+---
+
+5. TRUST / SIMPLICITY SECTION
+
+Title:
+“Simple. Claro. Sin complicaciones.”
+
+Text:
+“No pagas por cosas que no necesitas. Solo por lo que te ayuda a crecer.”
+
+---
+
+6. FINAL CTA SECTION
+
+Title:
+“¿Listo para llevar tu negocio online?”
+
+Button:
+“Quiero mi página web”
+
+Add urgency line:
+“Espacios limitados cada mes.”
+
+---
+
+DESIGN REQUIREMENTS:
+- Clean modern UI
+- Clear pricing cards
+- Strong contrast between sections
+- Buttons should stand out
+- Subtle animations allowed (fade-in, hover effects)
+- No clutter, no unnecessary text
+
+TONE:
+- Clear, persuasive, and simple Spanish (Puerto Rico style)
+- Focus on business growth, customers, and results
+- Avoid corporate or robotic language
+
+GOAL:
+Make this pricing page feel like a professional service that helps local businesses in Puerto Rico get more customers quickly.
