@@ -1,83 +1,109 @@
-/* ============================================================
-   BORICUA WEB PR — Portfolio Slideshow & Lightbox
-   ============================================================ */
-
 const demos = [
   {
     title: "Restaurante Tropical",
     type: "Restaurante",
     pages: [
-      { name: "Inicio",        img: "/demo-restaurant-1.png" },
-      { name: "Sobre Nosotros",img: "/demo-restaurant-2.png" },
-      { name: "Menú",          img: "/demo-restaurant-3.png" },
-      { name: "Galería",       img: "/demo-restaurant-4.png" },
-      { name: "Contacto",      img: "/demo-restaurant-5.png" },
+      { name: "Inicio",         img: "demo-restaurant-1.png" },
+      { name: "Sobre Nosotros", img: "demo-restaurant-2.png" },
+      { name: "Menú",           img: "demo-restaurant-3.png" },
+      { name: "Galería",        img: "demo-restaurant-4.png" },
+      { name: "Contacto",       img: "demo-restaurant-5.png" },
     ]
   },
   {
     title: "Eco Aventuras PR",
     type: "Tour Company",
     pages: [
-      { name: "Inicio",        img: "/demo-tour-1.png" },
-      { name: "Sobre Nosotros",img: "/demo-tour-2.png" },
-      { name: "Tours",         img: "/demo-tour-3.png" },
-      { name: "Galería",       img: "/demo-tour-4.png" },
-      { name: "Contacto",      img: "/demo-tour-5.png" },
+      { name: "Inicio",         img: "demo-tour-1.png" },
+      { name: "Sobre Nosotros", img: "demo-tour-2.png" },
+      { name: "Tours",          img: "demo-tour-3.png" },
+      { name: "Galería",        img: "demo-tour-4.png" },
+      { name: "Contacto",       img: "demo-tour-5.png" },
     ]
   },
   {
     title: "Ocean View Stay",
     type: "Airbnb",
     pages: [
-      { name: "Inicio",         img: "/demo-airbnb-1.png" },
-      { name: "La Propiedad",   img: "/demo-airbnb-2.png" },
-      { name: "Habitaciones",   img: "/demo-airbnb-3.png" },
-      { name: "Galería",        img: "/demo-airbnb-4.png" },
-      { name: "Reservaciones",  img: "/demo-airbnb-5.png" },
+      { name: "Inicio",         img: "demo-airbnb-1.png" },
+      { name: "La Propiedad",   img: "demo-airbnb-2.png" },
+      { name: "Habitaciones",   img: "demo-airbnb-3.png" },
+      { name: "Galería",        img: "demo-airbnb-4.png" },
+      { name: "Reservaciones",  img: "demo-airbnb-5.png" },
     ]
   },
   {
     title: "Estilo & Belleza",
     type: "Salón",
     pages: [
-      { name: "Inicio",        img: "/demo-salon-1.png" },
-      { name: "Sobre Nosotros",img: "/demo-salon-2.png" },
-      { name: "Servicios",     img: "/demo-salon-3.png" },
-      { name: "Galería",       img: "/demo-salon-4.png" },
-      { name: "Contacto",      img: "/demo-salon-5.png" },
+      { name: "Inicio",         img: "demo-salon-1.png" },
+      { name: "Sobre Nosotros", img: "demo-salon-2.png" },
+      { name: "Servicios",      img: "demo-salon-3.png" },
+      { name: "Galería",        img: "demo-salon-4.png" },
+      { name: "Contacto",       img: "demo-salon-5.png" },
     ]
   },
   {
     title: "Fuerza PR Gym",
     type: "Gimnasio",
     pages: [
-      { name: "Inicio",        img: "/demo-gym-1.png" },
-      { name: "Sobre Nosotros",img: "/demo-gym-2.png" },
-      { name: "Clases",        img: "/demo-gym-3.png" },
-      { name: "Galería",       img: "/demo-gym-4.png" },
-      { name: "Membresías",    img: "/demo-gym-5.png" },
+      { name: "Inicio",         img: "demo-gym-1.png" },
+      { name: "Sobre Nosotros", img: "demo-gym-2.png" },
+      { name: "Clases",         img: "demo-gym-3.png" },
+      { name: "Galería",        img: "demo-gym-4.png" },
+      { name: "Membresías",     img: "demo-gym-5.png" },
     ]
   },
   {
     title: "Rutas Locales",
     type: "Transporte",
     pages: [
-      { name: "Inicio",        img: "/demo-travel-1.png" },
-      { name: "Sobre Nosotros",img: "/demo-travel-2.png" },
-      { name: "Rutas",         img: "/demo-travel-3.png" },
-      { name: "Galería",       img: "/demo-travel-4.png" },
-      { name: "Reservaciones", img: "/demo-travel-5.png" },
+      { name: "Inicio",         img: "demo-travel-1.png" },
+      { name: "Sobre Nosotros", img: "demo-travel-2.png" },
+      { name: "Rutas",          img: "demo-travel-3.png" },
+      { name: "Galería",        img: "demo-travel-4.png" },
+      { name: "Reservaciones",  img: "demo-travel-5.png" },
+    ]
+  },
+  {
+    title: "Taller Rueda Fácil",
+    type: "Taller Mecánico",
+    pages: [
+      { name: "Inicio",         img: "demo-mechanic-1.png" },
+      { name: "Sobre Nosotros", img: "demo-mechanic-2.png" },
+      { name: "Servicios",      img: "demo-mechanic-3.png" },
+      { name: "Galería",        img: "demo-mechanic-4.png" },
+      { name: "Contacto",       img: "demo-mechanic-5.png" },
+    ]
+  },
+  {
+    title: "Clínica Patitas PR",
+    type: "Veterinaria",
+    pages: [
+      { name: "Inicio",         img: "demo-vet-1.png" },
+      { name: "Sobre Nosotros", img: "demo-vet-2.png" },
+      { name: "Servicios",      img: "demo-vet-3.png" },
+      { name: "Galería",        img: "demo-vet-4.png" },
+      { name: "Citas",          img: "demo-vet-5.png" },
+    ]
+  },
+  {
+    title: "Sonrisa Boricua",
+    type: "Clínica Dental",
+    pages: [
+      { name: "Inicio",         img: "demo-dental-1.jpg" },
+      { name: "Sobre Nosotros", img: "demo-dental-2.jpg" },
+      { name: "Servicios",      img: "demo-dental-3.jpg" },
+      { name: "Galería",        img: "demo-dental-4.jpg" },
+      { name: "Citas",          img: "demo-dental-5.jpg" },
     ]
   },
 ];
 
-// Per-card current slide index
 const cardSlides = demos.map(() => 0);
-// Lightbox state
 let lbDemo = 0;
 let lbSlide = 0;
 
-/* ---------- Build the card HTML ---------- */
 function buildCards() {
   const grid = document.getElementById('portfolio-grid');
   if (!grid) return;
@@ -85,9 +111,8 @@ function buildCards() {
   demos.forEach((demo, di) => {
     const card = document.createElement('div');
     card.className = 'demo-card reveal';
-    card.style.setProperty('transition-delay', `${di * 0.08}s`);
+    card.style.transitionDelay = `${di * 0.08}s`;
 
-    /* Slideshow */
     const slideshow = document.createElement('div');
     slideshow.className = 'slideshow';
 
@@ -99,14 +124,12 @@ function buildCards() {
       slideshow.appendChild(img);
     });
 
-    /* Badge */
     const badge = document.createElement('div');
     badge.className = 'slide-badge';
     badge.id = `badge-${di}`;
     badge.textContent = demo.pages[0].name;
     slideshow.appendChild(badge);
 
-    /* Prev arrow */
     const prev = document.createElement('button');
     prev.className = 'slide-arrow prev';
     prev.setAttribute('aria-label', 'Anterior');
@@ -114,7 +137,6 @@ function buildCards() {
     prev.addEventListener('click', (e) => { e.stopPropagation(); goSlide(di, -1); });
     slideshow.appendChild(prev);
 
-    /* Next arrow */
     const next = document.createElement('button');
     next.className = 'slide-arrow next';
     next.setAttribute('aria-label', 'Siguiente');
@@ -122,7 +144,6 @@ function buildCards() {
     next.addEventListener('click', (e) => { e.stopPropagation(); goSlide(di, 1); });
     slideshow.appendChild(next);
 
-    /* Dots */
     const dots = document.createElement('div');
     dots.className = 'slide-dots';
     dots.id = `dots-${di}`;
@@ -134,10 +155,8 @@ function buildCards() {
       dots.appendChild(dot);
     });
     slideshow.appendChild(dots);
-
     card.appendChild(slideshow);
 
-    /* Info */
     const info = document.createElement('div');
     info.className = 'demo-info';
     info.innerHTML = `
@@ -151,16 +170,11 @@ function buildCards() {
     grid.appendChild(card);
   });
 
-  /* Open lightbox on "Ver Demo" click */
   grid.addEventListener('click', (e) => {
     const btn = e.target.closest('.btn-demo');
-    if (btn) {
-      const di = parseInt(btn.dataset.demo, 10);
-      openLightbox(di, cardSlides[di]);
-    }
+    if (btn) openLightbox(parseInt(btn.dataset.demo, 10), cardSlides[parseInt(btn.dataset.demo, 10)]);
   });
 
-  /* Trigger scroll reveal for cards */
   requestAnimationFrame(() => {
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
@@ -174,7 +188,6 @@ function buildCards() {
   });
 }
 
-/* ---------- Slideshow navigation ---------- */
 function goSlide(di, dir) {
   const n = demos[di].pages.length;
   setSlide(di, (cardSlides[di] + dir + n) % n);
@@ -185,22 +198,15 @@ function setSlide(di, pi) {
   const cards = document.querySelectorAll('.demo-card');
   const card = cards[di];
   if (!card) return;
-
-  card.querySelectorAll('.slideshow img').forEach((img, i) => {
-    img.classList.toggle('active', i === pi);
-  });
-  card.querySelectorAll('.slide-dot').forEach((dot, i) => {
-    dot.classList.toggle('active', i === pi);
-  });
+  card.querySelectorAll('.slideshow img').forEach((img, i) => img.classList.toggle('active', i === pi));
+  card.querySelectorAll('.slide-dot').forEach((dot, i) => dot.classList.toggle('active', i === pi));
   const badge = document.getElementById(`badge-${di}`);
   if (badge) badge.textContent = demos[di].pages[pi].name;
 }
 
-/* ---------- Lightbox ---------- */
 function buildLightbox() {
   const lb = document.getElementById('lightbox');
   if (!lb) return;
-
   const stage = lb.querySelector('.lightbox-stage');
   demos.forEach((demo, di) => {
     demo.pages.forEach((page, pi) => {
@@ -212,19 +218,10 @@ function buildLightbox() {
       stage.appendChild(img);
     });
   });
-
-  /* Dots container */
-  const dotsEl = lb.querySelector('.lightbox-dots');
-
-  /* Prev/Next buttons */
   lb.querySelector('.lb-arrow.prev').addEventListener('click', () => lbGo(-1));
   lb.querySelector('.lb-arrow.next').addEventListener('click', () => lbGo(1));
-
-  /* Close */
   lb.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
   lb.addEventListener('click', (e) => { if (e.target === lb) closeLightbox(); });
-
-  /* Keyboard */
   document.addEventListener('keydown', (e) => {
     if (!lb.classList.contains('open')) return;
     if (e.key === 'ArrowRight') lbGo(1);
@@ -234,17 +231,14 @@ function buildLightbox() {
 }
 
 function openLightbox(di, pi) {
-  lbDemo = di;
-  lbSlide = pi;
+  lbDemo = di; lbSlide = pi;
   lbRender();
-  const lb = document.getElementById('lightbox');
-  lb.classList.add('open');
+  document.getElementById('lightbox').classList.add('open');
   document.body.style.overflow = 'hidden';
 }
 
 function closeLightbox() {
-  const lb = document.getElementById('lightbox');
-  lb.classList.remove('open');
+  document.getElementById('lightbox').classList.remove('open');
   document.body.style.overflow = '';
 }
 
@@ -257,18 +251,11 @@ function lbGo(dir) {
 function lbRender() {
   const lb = document.getElementById('lightbox');
   const demo = demos[lbDemo];
-
-  /* title & sub */
   lb.querySelector('.lightbox-title').textContent = demo.title;
   lb.querySelector('.lightbox-sub').textContent = `${demo.pages[lbSlide].name} (${lbSlide + 1} de ${demo.pages.length})`;
-
-  /* images */
   lb.querySelectorAll('.lightbox-stage img').forEach(img => {
-    const match = parseInt(img.dataset.demo) === lbDemo && parseInt(img.dataset.page) === lbSlide;
-    img.classList.toggle('active', match);
+    img.classList.toggle('active', parseInt(img.dataset.demo) === lbDemo && parseInt(img.dataset.page) === lbSlide);
   });
-
-  /* dots */
   const dotsEl = lb.querySelector('.lightbox-dots');
   dotsEl.innerHTML = '';
   demo.pages.forEach((_, pi) => {

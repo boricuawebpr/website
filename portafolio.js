@@ -65,6 +65,39 @@ const demos = [
       { name: "Reservaciones",  img: "demo-travel-5.png" },
     ]
   },
+  {
+    title: "Taller Rueda Fácil",
+    type: "Taller Mecánico",
+    pages: [
+      { name: "Inicio",         img: "demo-mechanic-1.png" },
+      { name: "Sobre Nosotros", img: "demo-mechanic-2.png" },
+      { name: "Servicios",      img: "demo-mechanic-3.png" },
+      { name: "Galería",        img: "demo-mechanic-4.png" },
+      { name: "Contacto",       img: "demo-mechanic-5.png" },
+    ]
+  },
+  {
+    title: "Clínica Patitas PR",
+    type: "Veterinaria",
+    pages: [
+      { name: "Inicio",         img: "demo-vet-1.png" },
+      { name: "Sobre Nosotros", img: "demo-vet-2.png" },
+      { name: "Servicios",      img: "demo-vet-3.png" },
+      { name: "Galería",        img: "demo-vet-4.png" },
+      { name: "Citas",          img: "demo-vet-5.png" },
+    ]
+  },
+  {
+    title: "Sonrisa Boricua",
+    type: "Clínica Dental",
+    pages: [
+      { name: "Inicio",         img: "demo-dental-1.jpg" },
+      { name: "Sobre Nosotros", img: "demo-dental-2.jpg" },
+      { name: "Servicios",      img: "demo-dental-3.jpg" },
+      { name: "Galería",        img: "demo-dental-4.jpg" },
+      { name: "Citas",          img: "demo-dental-5.jpg" },
+    ]
+  },
 ];
 
 const cardSlides = demos.map(() => 0);

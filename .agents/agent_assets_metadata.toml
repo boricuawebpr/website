@@ -1,5 +1,4 @@
 uploads = []
-outputs = []
 
 [[generated]]
 id = "XO5oZYEJ4dH5CsP4c7CPM"
@@ -156,3 +155,93 @@ id = "9zYuSPVUi8Ie2NEk8XkLb"
 uri = "file://artifacts/boricua-web-pr/public/demo-salon-5.png"
 type = "image"
 title = "generated_image"
+
+[[generated]]
+id = "VpLd6rL7dQ_EQIpXw_Rld"
+uri = "file://demo-mechanic-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "TZogKJqHAJ5oq7YzHruMC"
+uri = "file://demo-mechanic-2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "RtStwf55aMH-KILpeOG_y"
+uri = "file://demo-mechanic-3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "atkww4e6N6FULIF9cOHxP"
+uri = "file://demo-mechanic-4.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "1uBnJvzEn9DlK9GdwYrVg"
+uri = "file://demo-mechanic-5.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "wBEiukBcNRZV0FDotUlw9"
+uri = "file://demo-vet-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "5ioPy7fuuHQNVq0S0UNl8"
+uri = "file://demo-vet-2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "YMzOt0GcwJDoBWMARk5qS"
+uri = "file://demo-vet-3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "DmOPw68RLQUaR5FlcKoe5"
+uri = "file://demo-vet-4.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "23-ZwTrmThL5MXly0vkOe"
+uri = "file://demo-vet-5.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "wPwPPKkj8TKnsUY4CvDHS"
+uri = "file://attached_assets/stock_images/dental-1.jpg"
+type = "image"
+title = "modern dental clinic office interior clean professional"
+
+[[outputs]]
+id = "KOlYRr5kFflGn2EPnRcG3"
+uri = "file://attached_assets/stock_images/dental-2.jpg"
+type = "image"
+title = "dental office reception team professional"
+
+[[outputs]]
+id = "ngfjQ_sYWnRNrSaVR0Yee"
+uri = "file://attached_assets/stock_images/dental-3.jpg"
+type = "image"
+title = "dental services teeth cleaning whitening professional"
+
+[[outputs]]
+id = "3DhpDy6ICoUswGyYujuA0"
+uri = "file://attached_assets/stock_images/dental-4.jpg"
+type = "image"
+title = "bright modern dental treatment room equipment"
+
+[[outputs]]
+id = "o7dajf6g4Ah19W_ymOhZl"
+uri = "file://attached_assets/stock_images/dental-5.jpg"
+type = "image"
+title = "dental clinic contact appointment booking desk"
